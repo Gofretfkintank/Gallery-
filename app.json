@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Galeri Temizleyici",
+    "slug": "galeri-temizleyici",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "android": {
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_MEDIA_IMAGES"
+      ]
+    }
+  }
+}
